@@ -3,11 +3,7 @@
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///C:/Users/eleon/Desktop/Pasti_luoghi/KPS021.mp3"
-            MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./KPS021.mp3"/>
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:0d0e6258-758a-4429-86f1-38539315d596</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">1928</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">0</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="3258"/>

@@ -3,11 +3,7 @@
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///C:/Users/eleon/Downloads/StraParla_C.wav"
-            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./StraParla_C.wav"/>
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9620c5a9-a1ff-4fd0-bff0-a98db295308b</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">312</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">0</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="320"/>
