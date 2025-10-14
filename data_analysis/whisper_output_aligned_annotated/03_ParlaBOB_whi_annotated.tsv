@@ -1,0 +1,518 @@
+whisper	human	match	error
+_	x	0	unintelligible
+infatti	infatti	1	
+il	il	1	
+fatto	fatto	1	
+che	che	1	
+ha	_	0	err_auxiliary
+_	è	0	err_auxiliary
+aumentato	aumentato	1	
+il	il	1	
+turismo	turismo	1	
+ha	ha	1	
+impattato	impattato	1	
+molto	molto	1	
+_	anche	0	MISS
+_	x	0	unintelligible
+_	gli	0	MISS
+_	affitti	0	MISS
+_	eh	0	MISS
+a	_	0	ADD
+_	può	0	MISS
+tutti	_	0	ADD
+_	essere	0	MISS
+e'	_	0	typo
+_	è	0	typo
+VERO	VERO	1	
+è	è	1	
+VERO	VERO	1	
+perché	perché	1	
+dicevano	dicevano	1	
+che	che	1	
+molte	molte	1	
+persone	persone	1	
+molti	molti	1	
+proprietari	proprietari	1	
+hanno	hanno	1	
+messo	messo	1	
+le	le	1	
+case	case	1	
+su	su	1	
+_	airbb	0	nome proprio sconosciuto
+airbnb	_	0	nome proprio sconosciuto
+_	per	0	MISS - ripetizione
+per	per	1	
+il	il	1	
+turismo	turismo	1	
+_	mhmh	0	MISS
+e	e	1	
+tutte	tutte	1	
+queste	queste	1	
+case	case	1	
+sono	sono	1	
+state	state	1	
+tolte	tolte	1	
+dal	dal	1	
+mercato	mercato	1	
+della	della	1	
+gente	gente	1	
+che	che	1	
+ci	ci	1	
+deve	deve	1	
+vivere	vivere	1	
+_	insomma	0	MISS
+_	mhmh	0	MISS
+e'	_	0	typo
+_	è	0	typo
+VERO	VERO	1	
+quindi	quindi	1	
+sicuramente	sicuramente	1	
+il	il	1	
+turismo	turismo	1	
+ha	ha	1	
+influito	influito	1	
+anche	anche	1	
+su	su	1	
+_	questo	0	MISS
+questa	questa	1	
+cosa	cosa	1	
+qua	qua	1	
+però	però	1	
+capisco	capisco	1	
+anche	anche	1	
+che	che	1	
+vogliono	_	0	flessione
+_	vogliano	0	flessione
+eh	eh	1	
+_	sì	0	MISS - ripetizione
+_	x	0	unintelligible
+_	sì	0	MISS - ripetizione
+_	sì	0	MISS - ripetizione
+sì	sì	1	
+_	cercare	0	MISS
+_	in	0	MISS
+anche	_	0	MISS
+_	primo	0	MISS
+il	_	0	ADD
+_	e	0	MISS
+turismo	_	0	ADD
+_	però	0	MISS
+e	e	1	
+invece	invece	1	
+per	per	1	
+il	_	0	ADD
+quanto	quanto	1	
+riguarda	riguarda	1	
+il	il	1	
+lavoro	lavoro	1	
+pensi	pensi	1	
+che	che	1	
+sia	_	0	typo
+_	si	0	typo
+un	un	1	
+buon	buon	1	
+posto	posto	1	
+in	in	1	
+cui	cui	1	
+lavorare	lavorare	1	
+cioè	cioè	1	
+_	sì	0	MISS
+secondo	secondo	1	
+te	te	1	
+si	si	1	
+trova	trova	1	
+lavoro	lavoro	1	
+_	o	0	MISS
+_	ehm	0	MISS
+ah	ah	1	
+ok	_	0	typo
+_	okay	0	typo
+come	come	1	
+sì	sì	1	
+no	no	1	
+_	a	0	MISS
+bologna	bologna	1	
+sicuramente	sicuramente	1	
+_	mhmh	0	MISS
+secondo	secondo	1	
+me	me	1	
+ha	ha	1	
+molte	molte	1	
+opportunità	opportunità	1	
+lavorative	lavorative	1	
+_	mh	0	MISS
+rispetto	rispetto	1	
+_	a	0	MISS
+_	mh	0	MISS
+ad	ad	1	
+esempio	esempio	1	
+a	_	0	MISS
+fornì	_	0	nome proprio sconosciuto
+_	forlì	0	nome proprio sconosciuto
+da	_	0	ADD
+_	adesso	0	parola sconosciuta
+supernano	_	0	parola sconosciuta
+_	prendiamo	0	parola sconosciuta
+fornì	_	0	nome proprio sconosciuto
+_	forlì	0	nome proprio sconosciuto
+come	come	1	
+riferimento	riferimento	1	
+però	però	1	
+_	mhmh	0	MISS
+_	c'	1	
+c'è	_	1	
+_	è	1	
+sicuramente	sicuramente	1	
+molta	molta	1	
+più	più	1	
+offerta	offerta	1	
+lavorativa	lavorativa	1	
+su	su	1	
+bologna	bologna	1	
+perché	perché	1	
+un	un	1	
+po'	po'	1	
+_	ehm	0	MISS
+ci	ci	1	
+sono	sono	1	
+molte	molte	1	
+industrie	industrie	1	
+poi	poi	1	
+dipende	dipende	1	
+uno	uno	1	
+che	che	1	
+cosa	cosa	1	
+fa	fa	1	
+però	però	1	
+_	c'	0	MISS - ripetizione
+_	è	0	MISS - ripetizione
+_	c'	1	
+c'è	_	1	
+_	è	1	
+sia	sia	1	
+_	l'	1	
+l'industria	_	1	
+_	industria	1	
+e	_	0	err_category
+_	è	0	err_category
+la	la	1	
+regione	regione	1	
+poi	poi	1	
+del	_	0	err_genere
+_	della	0	err_genere
+motor	motor	1	
+valley	valley	1	
+sai	_	0	approssimazione
+_	si	0	approssimazione
+ci	ci	1	
+sono	sono	1	
+più	_	0	ADD
+_	tutte	0	MISS
+delle	_	0	approssimazione
+_	le	0	approssimazione
+aziende	aziende	1	
+di	_	0	approssimazione
+_	dei	0	approssimazione
+motori	motori	1	
+_	mh	0	MISS
+_	sì	0	MISS
+_	sì	0	MISS
+_	sì	0	MISS
+_	sì	0	MISS
+in	in	1	
+quella	quella	1	
+zona	zona	1	
+lì	lì	1	
+poi	poi	1	
+anche	anche	1	
+più	più	1	
+verso	verso	1	
+modena	modena	1	
+in	in	1	
+realtà	realtà	1	
+però	però	1	
+_	ehm	0	MISS
+secondo	secondo	1	
+me	me	1	
+_	c'	1	
+c'è	_	1	
+_	è	1	
+un	un	1	
+po'	po'	1	
+di	di	1	
+tutto	tutto	1	
+comunque	comunque	1	
+anche	anche	1	
+a	a	1	
+livello	livello	1	
+umanistico	umanistico	1	
+qualcosa	qualcosa	1	
+sì	_	0	typo
+_	si	0	typo
+si	si	1	
+trova	trova	1	
+a	a	1	
+bologna	bologna	1	
+_	mhmh	0	MISS
+_	eh	0	MISS
+io	io	1	
+poi	poi	1	
+ho	ho	1	
+trovato	trovato	1	
+lavoro	lavoro	1	
+tramite	tramite	1	
+un	un	1	
+concorso	concorso	1	
+quindi	quindi	1	
+_	ah	0	MISS
+_	okay	0	MISS
+_	mhmh	0	MISS
+_	mh	0	MISS
+quello	quello	1	
+magari	magari	1	
+è	è	1	
+di	_	0	ADD
+piacere	_	0	ADD
+_	diverso	0	MISS
+però	però	1	
+anche	anche	1	
+nel	nel	1	
+pubblico	pubblico	1	
+probabilmente	probabilmente	1	
+a	a	1	
+bologna	bologna	1	
+_	c'	1	
+c'è	_	1	
+_	è	1	
+molto	molto	1	
+di	di	1	
+più	più	1	
+rispetto	rispetto	1	
+magari	magari	1	
+più	più	1	
+posti	posti	1	
+sì	sì	1	
+esatto	esatto	1	
+_	poi	0	MISS
+_	l'	1	
+l'università	_	1	
+_	università	1	
+di	di	1	
+bologna	bologna	1	
+_	mh	0	MISS
+_	ha	0	MISS
+_	cioè	0	MISS
+diciamo	diciamo	1	
+che	che	1	
+porta	porta	1	
+tanto	tanto	1	
+lavoro	lavoro	1	
+in	in	1	
+tanti	tanti	1	
+modi	modi	1	
+_	mhmh	0	MISS
+secondo	secondo	1	
+me	me	1	
+_	e	0	MISS
+quindi	quindi	1	
+sì	sì	1	
+sicuramente	sicuramente	1	
+ci	ci	1	
+sono	sono	1	
+buone	buone	1	
+opportunità	opportunità	1	
+secondo	secondo	1	
+me	me	1	
+_	a	0	MISS
+bologna	bologna	1	
+in	in	1	
+tutta	tutta	1	
+la	la	1	
+regione	regione	1	
+penso	penso	1	
+che	che	1	
+sia	sia	1	
+la	la	1	
+città	città	1	
+_	in	0	MISS
+_	cui	0	MISS
+_	mhmh	0	MISS
+in	in	1	
+cui	cui	1	
+si	si	1	
+trova	trova	1	
+più	più	1	
+lavoro	lavoro	1	
+_	meglio	0	MISS
+_	sì	0	MISS
+e	e	1	
+quindi	quindi	1	
+tu	tu	1	
+di	di	1	
+cosa	cosa	1	
+ti	ti	1	
+occupi	occupi	1	
+_	a	0	MISS
+allora	allora	1	
+io	io	1	
+_	eh	0	MISS
+lavoro	lavoro	1	
+_	nell'	1	
+_	ufficio	1	
+nell'ufficio	_	1	
+_	eh	0	MISS
+relazioni	_	1	
+_	nomeluogo	1	
+internazionali	_	1	
+_	dell'	1	
+dell'università	_	1	
+_	università	1	
+di	di	1	
+bologna	bologna	1	
+in	in	1	
+particolare	particolare	1	
+_	in	0	MISS
+_	uf~	0	interrupted
+in	in	1	
+un	un	1	
+ufficio	ufficio	1	
+che	che	1	
+si	si	1	
+chiama	chiama	1	
+international	_	1	
+desk	_	1	
+_	nomeluogo	1	
+che	che	1	
+si	si	1	
+occupa	occupa	1	
+di	di	1	
+dare	dare	1	
+supporto	supporto	1	
+e	e	1	
+orientamento	orientamento	1	
+agli	agli	1	
+studenti	studenti	1	
+internazionali	internazionali	1	
+che	che	1	
+vengono	vengono	1	
+a	a	1	
+iscriversi	iscriversi	1	
+_	all'	1	
+all'università	_	1	
+_	università	1	
+di	di	1	
+bologna	bologna	1	
+_	mhmh	0	MISS
+quindi	quindi	1	
+che	che	1	
+fanno	fanno	1	
+un	_	0	err_category
+_	l'	0	err_category
+intero	intero	1	
+percorso	percorso	1	
+trinale	_	0	parola sconosciuta
+_	triennale	0	parola sconosciuta
+magistrale	magistrale	1	
+e	e	1	
+principalmente	principalmente	1	
+diamo	diamo	1	
+supporto	supporto	1	
+per	per	1	
+_	ehm	0	MISS
+_	o~	0	interrupted
+_	o~	0	interrupted
+_	mh	0	MISS
+orientamento	orientamento	1	
+sul	sul	1	
+processo	processo	1	
+proprio	proprio	1	
+di	_	0	elisione
+_	d'	0	elisione
+iscrizione	iscrizione	1	
+cosa	cosa	1	
+fare	fare	1	
+a	_	0	approssimazione
+_	da	0	approssimazione
+dove	dove	1	
+partire	partire	1	
+ma	ma	1	
+poi	poi	1	
+nel	nel	1	
+dettaglio	dettaglio	1	
+in	in	1	
+particolare	particolare	1	
+sulle	sulle	1	
+questioni	questioni	1	
+che	che	1	
+riguardano	riguardano	1	
+_	l'	1	
+_	immigrazione	1	
+_	ah	0	MISS
+l'immigrazione	_	1	
+_	mhmh	0	MISS
+quindi	quindi	1	
+su	su	1	
+come	come	1	
+ottenere	ottenere	1	
+un	un	1	
+visto	visto	1	
+_	che	0	MISS
+_	bello	0	MISS
+come	come	1	
+fare	fare	1	
+per	_	0	ADD
+il	il	1	
+_	permesso	0	MISS
+_	di	0	MISS
+suo	_	0	approssimazione
+_	soggiorno	0	approssimazione
+giorno	_	0	approssimazione
+_	eh	0	MISS
+diamo	diamo	1	
+informazioni	informazioni	1	
+sui	sui	1	
+titoli	titoli	1	
+esteri	esteri	1	
+_	cosa	0	MISS
+che	che	1	
+documenti	documenti	1	
+devono	devono	1	
+presentare	presentare	1	
+per	per	1	
+iscriversi	iscriversi	1	
+con	con	1	
+un	un	1	
+titolo	titolo	1	
+di	di	1	
+studio	studio	1	
+estero	estero	1	
+e	e	1	
+insomma	insomma	1	
+queste	queste	1	
+cose	cose	1	
+queste	queste	1	
+cose	cose	1	
+qui	qui	1	
+principalmente	principalmente	1	
+_	ehm	0	MISS
+hai	hai	1	
+sempre	sempre	1	
+fatto	fatto	1	
+questo	questo	1	
+lavoro	lavoro	1	
+oppure	oppure	1	
+allora	allora	1	
+dopo	dopo	1	
+la	la	1	
+laurea	laurea	1	
+io	io	1	
+mi	mi	1	
+sono	_	0	elisione
+_	son	0	elisione
+laureato	_	0	err_genere
+_	laureata	0	err_genere
+nel	nel	1	
+2017	_	1	
+_	duemiladiciassette	1	
+ho	ho	1	
+fatto	fatto	1	

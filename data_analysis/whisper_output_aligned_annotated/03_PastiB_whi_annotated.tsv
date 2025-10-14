@@ -1,0 +1,671 @@
+whisper	human	match	error
+va be'	vabbè	0	grafia
+era	era	1	
+leggera	leggera	1	
+però	però	1	
+_	alla	0	MISS
+no	_	0	ADD
+_	fine	0	MISS
+no	no	1	
+no	no	1	
+è	è	1	
+VERO	VERO	1	
+_	sì	0	MISS
+non	non	1	
+era	era	1	
+pesantissima	pesantissima	1	
+per	per	1	
+niente	niente	1	
+_	anzi	0	MISS
+_	l'	1	
+l'unica	_	1	
+_	unica	1	
+cosa	cosa	1	
+ho	ho	1	
+esagerato	esagerato	1	
+un	un	1	
+po'	po'	1	
+con	con	1	
+_	l'	1	
+l'olio	_	1	
+_	olio	1	
+forse	forse	1	
+_	però	0	MISS
+ma	ma	1	
+_	nell'	1	
+nell'impasto	_	1	
+_	impasto	1	
+no	no	1	
+fuori	fuori	1	
+fuori	fuori	1	
+_	nell'	1	
+_	impasto	1	
+nell'impasto	_	1	
+ci	ce	0	approssimazione
+_	ne	0	MISS
+l'ho	_	0	ADD
+_	ho	1	
+messo	messo	1	
+il	il	1	
+giusto	giusto	1	
+_	nella	0	MISS
+_	padella	0	MISS
+però	però	1	
+in	in	1	
+padella	padella	1	
+mi	_	0	ADD
+che	_	0	ADD
+_	rosa	0	MISS
+ha	ha	1	
+detto	detto	1	
+metti	metti	1	
+_	quello	0	MISS
+_	là	0	MISS
+_	l'	1	
+l'olio	_	1	
+_	olio	1	
+da	da	1	
+friggere	friggere	1	
+così	così	1	
+vengono	vengono	1	
+meglio	meglio	1	
+ho	ho	1	
+detto	detto	1	
+ok	okay	0	grafia
+e	e	1	
+ho	ho	1	
+fatto	fatto	1	
+però	però	1	
+praticamente	praticamente	1	
+ho	_	0	ADD
+_	x	0	unintelligible
+messo	messo	1	
+_	cioè	0	MISS
+_	tutt~	0	interrupted
+tutto	tutto	1	
+il	il	1	
+fondo	fondo	1	
+della	della	1	
+padella	padella	1	
+era	era	1	
+pieno	pieno	1	
+di	d'	0	elisione
+olio	olio	1	
+io	io	1	
+volevo	volevo	1	
+mettere	mettere	1	
+un	un	1	
+filo	filo	1	
+_	sai	0	MISS
+per	per	1	
+farle	farli	0	err_genere
+venire	venire	1	
+_	{P}	0	nonverbal
+mezzi	mezzi	1	
+tra	tra	1	
+_	cioè	0	MISS
+cotti	cotti	1	
+nella	nella	1	
+padella	padella	1	
+unta	unta	1	
+invece	invece	1	
+i	i	1	
+primi	primi	1	
+sono	sono	1	
+venuti	venuti	1	
+un	un	1	
+po'	po'	1	
+deep	deep	1	
+fried	fried	1	
+quasi	quasi	1	
+_	{ride}	0	nonverbal
+_	fritti	0	MISS
+_	{tossisce}	0	nonverbal
+beh	beh	1	
+oggi	oggi	1	
+abbiamo	abbiamo	1	
+fatto	fatto	1	
+colazione	colazione	1	
+con	co~	0	interrupted
+_	pa~	0	interrupted
+pancake	pancake	1	
+con	con	1	
+nutella	nutella	1	
+è	è	1	
+rimasto	rimasto	1	
+un	un	1	
+altro	altro	1	
+pancake	pancake	1	
+se	se	1	
+vuoi	vuoi	1	
+_	uh	0	MISS
+_	ma	0	MISS
+_	quanti	0	MISS
+_	ne	0	MISS
+_	avete	0	MISS
+_	fa~	0	interrupted
+mangi	mangiati	0	err_flessione
+tu	tu	1	
+il	il	1	
+pancake	pancake	1	
+_	e	0	MISS
+_	io	0	MISS
+_	mi	0	MISS
+mangi	mangio	0	err_flessione
+il	il	1	
+gelato	gelato	1	
+_	che	0	MISS
+_	ne	0	MISS
+_	dici	0	MISS
+_	{ride}	0	nonverbal
+_	mo	0	MISS
+_	to	0	MISS
+_	chiavo	0	MISS
+_	n'	0	MISS
+venedì	_	0	ADD
+_	faccia	0	MISS
+non	_	0	ADD
+_	stu	0	MISS
+è	_	0	ADD
+_	pancake	0	MISS
+VERO	_	0	ADD
+_	stronzo	0	MISS
+poi	poi	1	
+_	che	0	MISS
+è	è	1	
+rimasto	rimas~	0	interrupted
+poi	poi	1	
+abbiamo	abbiamo	1	
+mangiato	mangiato	1	
+_	io	0	MISS
+_	a	0	MISS
+_	pranzo	0	MISS
+_	ho	0	MISS
+_	esagerato	0	MISS
+_	tanto	0	MISS
+_	da	0	MISS
+_	tua	0	MISS
+_	nonna	0	MISS
+l'armonia	_	0	ADD
+4	quatt	0	approssimazione - dialetto
+gelate	gilat	0	approssimazione - dialetto
+si	sa	0	approssimazione - dialetto
+sono	_	0	ADD
+mangiate	mangiat	0	approssimazione - dialetto
+_	'stu	0	MISS
+su	_	0	ADD
+_	puorco	0	MISS
+questo		0	ADD
+4	quattro	1	
+gelate	gelati	0	approssimazione - dialetto
+_	è	0	MISS
+_	esa~	0	interrupted
+non	non	1	
+è	è	1	
+VERO	VERO	1	
+_	x	0	unintelligible
+_	a	0	MISS
+_	parte	0	MISS
+_	il	0	MISS
+_	fatto	0	MISS
+poi	_	0	ADD
+_	che	0	MISS
+abbiamo	abbiamo	1	
+fatto	_	0	ADD
+_	mangiato	0	MISS
+la	la	1	
+stessa	stessa	1	
+quantità	quantità	1	
+di	di	1	
+gelato	gelato	1	
+tu	tu	1	
+ne	ne	1	
+hai	hai	1	
+mangiati	mangiati	1	
+di	di	1	
+più	più	1	
+no	no	1	
+roberto	alberto	0	nome proprio sconosciuto
+hai	hai	1	
+mangiato	mangiato	1	
+il	il	1	
+pan	pan	1	
+di	di	1	
+stelle	stelle	1	
+hai	hai	1	
+mangiato	mangiato	1	
+quello	quello	1	
+al	al	1	
+caramello	caramello	1	
+_	e	0	MISS
+ne	ne	1	
+hai	hai	1	
+mangiato	mangiato	1	
+un	un	1	
+altro	altro	1	
+no	no	1	
+non	non	1	
+_	l'	1	
+l'ho	_	1	
+_	ho	1	
+mangiato	mangiato	1	
+un	un	1	
+altro	altro	1	
+_	ho	0	MISS
+_	ma~	0	interrupted
+perché	perché	1	
+non	nonna	0	approssimazione
+abbiamo	aveva	0	err_flessione
+mangiato	comprato	0	approssimazione
+quelli	quei	0	approssimazione
+pan	pan	1	
+di	di	1	
+stelle	stelle	1	
+_	vabbè	0	MISS
+_	sei	0	MISS
+_	un	0	MISS
+_	maiale	0	MISS
+_	hai	0	MISS
+_	mangiato	0	MISS
+che	che	1	
+erano	erano	1	
+buoni	buoni	1	
+si	sì	0	grafia
+_	e	0	MISS
+pura	pure	0	err_category
+tu	tu	1	
+sei	sei	1	
+un	un	1	
+maiale	maiale	1	
+però	però	1	
+_	ti	0	MISS
+_	sto	0	MISS
+_	dicendo	0	MISS
+hai	hai	1	
+mangiato	mangiato	1	
+un	_	0	ADD
+po'	_	0	ADD
+di	due	0	approssimazione
+salsiccio	salsicce	0	err_genere
+_	e	0	MISS
+un	un	1	
+sacco	sacco	1	
+di	di	1	
+friamenti	friarielli	0	parola sconosciuta
+_	perché	0	MISS - ripetizione
+perché	perché	1	
+praticamente	praticamente	1	
+_	la	0	MISS
+non	nonna	0	approssimazione
+abbiamo	aveva	0	err_flessione
+comprato	comprato	1	
+_	buoni	0	MISS
+_	i	0	MISS
+_	friarielli	0	MISS
+questi	questi	1	
+gelati	gelati	1	
+pan	pan	1	
+di	di	1	
+stelle	stelle	1	
+che	che	1	
+erano	erano	1	
+quelli	quelli	1	
+da	là	0	approssimazione
+tipo	tipo	1	
+a	a	1	
+biscotto	biscotto	1	
+che	che	1	
+ce	ce	1	
+ne	n'	0	elisione
+erano	erano	1	
+due	due	1	
+in	in	1	
+una	una	1	
+_	bustina	0	MISS
+_	quindi	0	MISS
+_	avete	0	MISS
+_	fatto	0	MISS
+_	uno	0	MISS
+_	e	0	MISS
+_	uno	0	MISS
+io	io	1	
+ho	ho	1	
+detto	detto	1	
+voglio	voglio	1	
+questo	questo	1	
+però	però	1	
+voglio	voglio	1	
+anche	anche	1	
+quello	quello	1	
+al	al	1	
+caramello	caramello	1	
+quindi	quindi	1	
+ho	ho	1	
+mangiato	mangiato	1	
+uno	uno	1	
+di	di	1	
+quelli	quelli	1	
+io	_	0	ADD
+_	e	0	MISS
+ho	ho	1	
+dato	dato	1	
+_	l'	1	
+l'altro	_	1	
+_	altro	1	
+a	a	1	
+lui	lui	1	
+e	e	1	
+ho	ho	1	
+mangiato	mangiato	1	
+quello	quello	1	
+al	al	1	
+caramello	caramello	1	
+la	la	1	
+stessa	stessa	1	
+quantità	quantità	1	
+che	che	1	
+ha	ha	1	
+mangiato	mangiato	1	
+lui	lui	1	
+uguale	uguale	1	
+identico	identico	1	
+quindi	quindi	1	
+la	la	1	
+cosa	cosa	1	
+che	che	1	
+adesso	adesso	1	
+io	io	1	
+sono	sono	1	
+il	il	1	
+porco	porco	1	
+e	e	1	
+tu	tu	1	
+no	no	1	
+lasciamo	lasciamo	1	
+stare	stare	1	
+_	vabbuò	0	MISS
+_	comunque	0	MISS
+in	in	1	
+generale	generale	1	
+per	per	1	
+una	una	1	
+giornata	giornata	1	
+_	c'	1	
+c'è	_	1	
+_	è	1	
+stata	stato	0	err_genere
+tanto	tanto	1	
+cibo	cibo	1	
+un	un	1	
+po'	po'	1	
+chiatto	chiatto	1	
+ma	ma	1	
+è	è	1	
+domenica	domenica	1	
+è	è	1	
+festa	festa	1	
+_	eh	0	MISS
+_	lo	0	MISS
+_	so	0	MISS
+_	però	0	MISS
+lo	lo	1	
+sanno	sanno	1	
+tutti	tutti	1	
+_	mh	0	MISS
+chiediamolo	chiediamolo	1	
+al	al	1	
+diabetto	diabete	0	parola sconosciuta
+di	di	1	
+terzo	terzo	1	
+tipo	tipo	1	
+che	che	1	
+aveva	avremo	0	err_flessione
+_	tra	0	MISS
+_	un	0	MISS
+_	paio	0	MISS
+_	di	0	MISS
+_	anni	0	MISS
+montrato	_	0	ADD
+_	tra	0	MISS
+un	un	1	
+paio	paio	1	
+di	di	1	
+agli	anni	0	approssimazione
+_	sì	0	MISS
+perché	perché	1	
+tutti	tutti	1	
+i	i	1	
+giorni	giorni	1	
+mangio	mangio	1	
+così	così	1	
+ovviamente	ovviamente	1	
+_	lite	0	MISS
+_	marò	0	MISS
+_	che	0	MISS
+nervosamente	nervosamente	1	
+mi	mi	1	
+fa	fa	1	
+venire	venire	1	
+vabbè	vabbè	1	
+ti	s'	0	err_persona
+hai	_	0	ADD
+_	è	0	MISS
+mangiato	mangiato	1	
+_	l'	1	
+l'insalata	_	1	
+_	insalata	1	
+ieri	ieri	1	
+_	eh	0	MISS
+ieri	ieri	1	
+ho	ho	1	
+mangiato	mangiato	1	
+_	l'	1	
+_	insalatina	1	
+l'insalatina	_	1	
+_	{ride}	0	nonverbal
+doveva	_	0	ADD
+_	no	0	MISS
+non	non	1	
+mi	mi	1	
+guardare	guardare	1	
+così	così	1	
+che	che	1	
+ho	ha	0	err_persona
+detto	detto	1	
+devo	devo	1	
+mettere	mettere	1	
+_	l'	0	MISS
+_	olio	0	MISS
+_	dentro	0	MISS
+_	vuoi	0	MISS
+_	sapere	0	MISS
+_	che	0	MISS
+_	c'	0	MISS
+_	era	0	MISS
+_	nell'	0	MISS
+voglio	_	0	ADD
+_	insalatina	0	MISS
+dentro	dentro	1	
+_	l'	0	ADD
+_	insalati~	0	interrupted
+ci	c'	0	elisione
+erano	erano	1	
+i	i	1	
+cubetti	cubetti	1	
+_	che	0	MISS
+_	c'	0	MISS
+_	era	0	MISS
+_	di	0	MISS
+_	formaggio	0	MISS
+_	e	0	MISS
+_	di	0	MISS
+_	salame	0	MISS
+_	l'	0	MISS
+_	ha	0	MISS
+_	detto	0	MISS
+di	di	1	
+provolone	provolone	1	
+_	e	0	MISS
+il	i	0	err_numero
+cubetti	cubetti	1	
+di	di	1	
+_	sa~	0	interrupted
+_	e	0	MISS
+_	ti	0	MISS
+sembra	sembra	1	
+_	un'	1	
+un'insalatina	_	1	
+_	isalatina	1	
+questa	_	0	ADD
+_	vabbè	0	MISS
+è	_	0	ADD
+VERO	però	0	approssimazione
+_	jà	0	MISS
+non	non	1	
+è	è	1	
+che	che	1	
+è	_	0	ADD
+_	ha	0	MISS
+assaggerato	esagerato	0	parola sconosciuta
+sono	sono	1	
+degli	degli	1	
+affettati	affettati	1	
+con	con	1	
+l'	l'	1	
+insalato	insalata	0	err_genere
+_	cioè	0	MISS
+_	è	0	MISS
+un	un	1	
+pranzo	pranzo	1	
+non	_	0	ADD
+_	mh	0	MISS
+è	_	0	ADD
+_	secondo	0	MISS
+che	_	0	ADD
+_	me	0	MISS
+non	non	1	
+troppo	troppo	1	
+_	allora	0	MISS
+_	rosa	0	MISS
+_	te	0	MISS
+_	lo	0	MISS
+_	giuro	0	MISS
+_	ti	0	MISS - ripetizione
+ti	ti	1	
+fidi	fidi	1	
+di	di	1	
+me	me	1	
+quando	quando	1	
+_	ti	0	MISS - ripetizione
+ti	ti	1	
+dico	dico	1	
+una	una	1	
+cosa	cosa	1	
+_	cioè	0	MISS
+_	non	0	MISS
+_	dic~	0	interrupted
+_	non	0	MISS
+_	ti	0	MISS
+_	ho	0	MISS
+_	mai	0	MISS
+_	detto	0	MISS
+_	una	0	MISS
+_	bugia	0	MISS
+_	in	0	MISS
+_	vita	0	MISS
+_	mia	0	MISS
+_	a	0	MISS
+_	te	0	MISS
+_	cioè	0	MISS
+_	non	0	MISS
+_	dic~	0	interrupted
+non	non	1	
+ti	ti	1	
+ho	ho	1	
+mai	mai	1	
+detto	detto	1	
+una	una	1	
+bugia	bugia	1	
+_	in	0	MISS
+_	vita	0	MISS
+_	mia	0	MISS
+_	a	0	MISS
+_	te	0	MISS
+_	allò	0	MISS
+ho	ho	1	
+messo	messo	1	
+mezza	mezza	1	
+cosa	cosa	1	
+di	di	1	
+iceberg	iceberg	1	
+poi	poi	1	
+ci	c'	0	elisione
+ho	ho	1	
+messo	messo	1	
+quattro	quattro	1	
+fette	fette	1	
+_	contate	0	MISS
+di	di	1	
+salame	salame	1	
+tagliate	tagliate	1	
+a	a	1	
+cubetti	cubetti	1	
+mezzo	mezzo	1	
+pezzo	pezzo	1	
+_	di	0	MISS
+_	auricchio	0	MISS
+_	{ride}	0	nonverbal
+_	cioè	0	MISS
+di	di	1	
+provolone	provolone	1	
+tagliato	tagliato	1	
+a	a	1	
+cubetti	cubetti	1	
+e	e	1	
+due	due	1	
+fettine	fettine	1	
+di	di	1	
+pane	pane	1	
+tagliate	tagliate	1	
+a	a	1	
+cubetti	cubetti	1	
+salta	saltate	0	err_flessione
+dei	_	0	ADD
+_	in	0	MISS
+padella	padella	1	
+che	che	1	
+l'	le	0	elisione
+fatto	fatte	0	err_genere
+tipo	tipo	1	
+crostino	crostino	1	
+_	mh	0	MISS
+basta	basta	1	
+_	que~	0	interrupted
+ah	ah	1	
+è	e	0	approssimazione
+_	una	0	MISS - ripetizione
+una	una	1	
+carota	carota	1	
+che	che	1	
+_	l'	1	
+l'ho	_	1	
+_	ho	1	
+tagliata	tagliata	1	
+piccolina	piccolina	1	
+piccolina	piccolina	1	
+no	_	0	ADD
+_	x	0	unintelligible
+secondo	secondo	1	
+me	me	1	
+la	la	1	
+carota	carota	1	
+non	non	1	
+ci	ci	1	
+stava	stava	1	
+bene	be~	0	interrupted
+invece	invece	1	
+stava	stava	1	
+bene	bene	1	
+_	sì	0	MISS
+no	no	1	
+comunque	comunque	1	

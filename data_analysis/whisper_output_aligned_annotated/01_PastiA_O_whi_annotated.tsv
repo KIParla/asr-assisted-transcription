@@ -1,0 +1,665 @@
+whisper	human	match	error
+per	per	1	
+4	_	1	
+_	quattro	1	
+no	non	0	err_categoria
+un	uno	0	approssimazione
+chilo	chilo	1	
+e	_	0	ADD
+700	_	1	
+_	settecento	1	
+grammi	grammi	1	
+di	di	1	
+pasta	pasta	1	
+eh	e	0	grafia
+vabbè	vabbé	1	
+perché	_	0	ADD
+_	ma	0	MISS
+quello	quello	1	
+_	è	0	MISS
+il	il	1	
+padre	padre	1	
+se	sai	0	approssimazione
+ne	_	0	ADD
+mangia	mando	0	approssimazione
+_	sta	0	MISS
+assai	_	0	ADD
+_	so	0	MISS
+io	_	0	ADD
+_	con	0	MISS
+so	_	0	ADD
+_	quell-	0	interrupted
+il	il	1	
+padre	padre	1	
+va	_	0	ADD
+_	man-	0	interrupted
+e	_	0	ADD
+_	mangia	0	MISS
+ne	ne	1	
+mangia	mangia	1	
+una	una	1	
+scotella	scodella	0	parola sconosciuta
+di	di	1	
+insalata	insalata	1	
+_	ah	0	MISS
+con	con	1	
+due	due	1	
+vasetti	vasetti	1	
+del	del	1	
+pesto	pesto	1	
+quello	quello	1	
+la	là	0	grafia
+barilla	barilla	1	
+_	vabbé	0	MISS
+_	tanto	0	MISS
+_	e	0	MISS
+_	t-t-	0	MISS
+_	tutti	0	MISS
+_	e	0	MISS
+_	due	0	MISS
+_	programmi	0	MISS
+_	di	0	MISS
+_	pasta	0	MISS
+_	e	0	MISS
+_	poi	0	MISS
+ricotta	ricotte	0	err_numero
+e	e	1	
+noci	_	1	
+_	noci'	1	
+non	non	1	
+contenta	contenta	1	
+il	il	1	
+fiordilatte	fior di latte	0	grafia
+dentro	dentro	1	
+non	non	1	
+contenta	contenta	1	
+i	il	0	err_numero
+parmigiano	parmigiano	1	
+sopra	sopra	1	
+e	e	1	
+lo	_	0	ADD
+_	non	0	MISS - ripetizione
+stona	stono	0	err_genere
+no	non	0	err_categoria
+contento	contenta	0	err_genere
+mi	_	0	ADD
+ha	_	0	ADD
+detto	_	0	ADD
+_	per	0	MISS
+se	_	0	ADD
+_	tutta	0	MISS
+c'avevo	_	0	ADD
+li	la	0	err_genere
+_	sessione	0	MISS
+non	_	0	ADD
+_	uagliò	0	MISS
+ci	ci	1	
+mettevo	_	0	err_flessione
+_	metto	0	err_flessione
+pure	pure	1	
+le	le	1	
+noci	noci	1	
+sopra	sopra	1	
+_	no	0	MISS - ripetizione
+no	no	1	
+che	_	0	ADD
+_	ti	0	MISS
+bravo	_	0	ADD
+_	prego	0	MISS
+ma	_	0	ADD
+_	qua	0	MISS
+mi	mi	1	
+piacevano	piacevano	1	
+tanto	tanto	1	
+quelle	quelle	1	
+zucchine	zucchine	1	
+le	le	1	
+avete	avete	1	
+mangiate	mangiate	1	
+tutte	tutte	1	
+_	mh	0	MISS
+sorry	sorry	1	
+te	te	1	
+le	le	1	
+rifaccio	rifaccio	1	
+prima	prima	1	
+che	che	1	
+te	te	1	
+ne	ne	1	
+vai	vai	1	
+_	eh	0	MISS
+ma	ma	1	
+che	che	1	
+te	te	1	
+ne	ne	1	
+vai	vai	1	
+_	mh	0	MISS
+_	è	0	MISS
+dove	_	0	ADD
+_	lei	0	MISS
+che	che	1	
+va	va	1	
+via	via	1	
+sai	sai	1	
+che	che	1	
+possiamo	possiamo	1	
+fare	fare	1	
+con	_	0	ADD
+_	no	0	MISS
+questo	_	0	ADD
+_	comunque	0	MISS
+zucchino	zucchine	0	err_numero
+una	_	0	ADD
+gigante	_	0	ADD
+_	raggixxx	0	MISS
+che	che	1	
+tengo	tengo	1	
+la	le	0	err_numero
+vogliamo	vogliamo	1	
+rostire	arrostire	0	approssimazione
+adesso	adesso	1	
+tipo	tipo	1	
+se	cioé	0	approssimazione
+non	non	1	
+ce	ce	1	
+la	le	0	err_numero
+mangiamo	mangiamo	1	
+adesso	adesso	1	
+però	però	1	
+lo	le	0	err_genere
+facciamo	facciamo	1	
+per	per	1	
+domani	domani	1	
+non	_	0	ADD
+è	_	0	ADD
+_	dai	0	MISS
+va	va	1	
+bene	bene	1	
+ma	ma	1	
+perché	perché	1	
+la	la	1	
+zucchinona	zucchina	0	approssimazione
+_	non-	0	interrupted
+la	l-	0	interrupted
+_	l'	0	elisione
+avevi	avevi	1	
+già	già	1	
+fatta	fatta	1	
+no	_	0	ADD
+_	amore	0	MISS
+erano	erano	1	
+due	due	1	
+_	zucchinone	0	MISS - ripetizione
+_	uno	0	MISS
+zucchinone	zucchinone	1	
+una	una	1	
+_	l'	1	
+l'ho	_	1	
+_	ho	1	
+fatta	fatta	1	
+_	l'	1	
+l'altra	_	1	
+_	altra	1	
+eh	e	0	grafia
+ma	ma	1	
+_	l'	1	
+l'altra	_	1	
+_	altra	1	
+è	è	1	
+metà	metà	1	
+perché	perché	1	
+metà	metà	1	
+si	si	1	
+deve	deve	1	
+tagliare	tagliare	1	
+_	è	0	MISS
+_	nel	0	MISS
+_	frigo	0	MISS
+_	eh	0	MISS
+perché	perché	1	
+nel	nel	1	
+frigo	frigo	1	
+sarà	stava	0	approssimazione
+troppo	troppo	1	
+forte	forte	1	
+_	se	0	MISS
+_	è	0	MISS
+_	il	0	MISS
+_	ghiaccio	0	MISS
+_	l'	0	MISS
+_	alxxx	0	MISS
+il	il	1	
+ghiaccio	ghiaccio	1	
+_	l'	0	MISS
+_	ha	0	MISS
+è	_	0	ADD
+_	tipo	0	MISS
+un	un	1	
+po'	po'	1	
+_	uhm	0	MISS
+disturbata	disturbata	1	
+diciamo	diciamo	1	
+così	così	1	
+non	non	1	
+so	so	1	
+come	come	1	
+dire	dire	1	
+_	mh	0	MISS
+_	cioé	0	MISS
+si	si	1	
+è	è	1	
+fatta	fatta	1	
+tipo	tipo	1	
+molla	molla	1	
+strana	strana	1	
+si	s'	0	elisione
+è	_	1	
+_	é	1	
+fangelata	congelata	0	parola sconosciuta
+eh	e	0	grafia
+ma	ma	1	
+si	si	1	
+è	è	1	
+fatta	fatta	1	
+molla	molla	1	
+strana	strana	1	
+_	al	0	MISS
+_	babbo	0	MISS
+_	eh	0	MISS
+si	si	1	
+è	è	1	
+bruciata	bruciata	1	
+_	si	0	MISS
+_	è	0	MISS
+brava	bravo	0	err_genere
+tipo	tipo	1	
+forse	fosse	0	approssimazione
+una	una	1	
+bruciatura	bruciatura	1	
+da	dal	0	approssimazione
+angelo	gelo	0	approssimazione
+mmm	_	0	ADD
+_	uh	0	MISS
+mi	mi	1	
+è	_	0	ADD
+piaciuto	_	0	ADD
+_	chiedevo	0	MISS
+come	come	1	
+le	le	1	
+ha	ha	1	
+fatte	fatte	1	
+miriana	emiliana	0	nome proprio
+olè	_	0	ADD
+_	come	0	MISS
+ti	ci	0	err_numero
+ha	ha	1	
+messo	messo	1	
+dentro	dentro	1	
+_	l'	1	
+l'origano	_	1	
+_	origano	1	
+tuttavia	tuttavia	1	
+_	ah	0	MISS
+_	davvero	0	MISS
+però	_	0	ADD
+_	do-	0	interrupted
+dovresti	dovresti	1	
+essere	essere	1	
+contenta	contenta	1	
+il	il	1	
+primo	primo	1	
+complimento	complimento	1	
+da	da	1	
+qualche	qu-	0	interrupted
+cucinato	 vita cunivano	0	approssimazione
+qualcosa	qualcosa	1	
+a	_	0	ADD
+tu	tu	1	
+_	{applaude}	0	nonverbal
+grazie	grazie	1	
+che	_	0	ADD
+_	regà	0	MISS
+me	me	1	
+lo	lo	1	
+ricorderò	ricorderò	1	
+a	a	1	
+vita	vita	1	
+sappiate	sappiate	1	
+che	che	1	
+non	non	1	
+si	si	1	
+replicherà	replicherà	1	
+mai	mai	1	
+più	più	1	
+_	{ride}	0	nonverbal
+no	no	1	
+perché	perché	1	
+poi	poi	1	
+_	a	0	MISS
+_	me	0	MISS
+_	cioé	0	MISS
+invece	_	0	ADD
+_	eh	0	MISS
+adoro	adoro	1	
+_	{P}	0	nonverbal
+_	i-	0	interrupted
+come	come	1	
+mangiano	mangiano	1	
+in	in	1	
+ospedale	ospedale	1	
+praticamente	praticamente	1	
+fabiana	fabiano	0	nome proprio
+me	me	1	
+lo	lo	1	
+dice	dice	1	
+sempre	sempre	1	
+adoro	adoro	1	
+senza	senza	1	
+sale	sale	1	
+cioè	cioè	1	
+meno	meno	1	
+sale	sale	1	
+_	c'	0	MISS
+_	é	0	MISS
+più	più	1	
+mi	mi	1	
+piace	piace	1	
+senza	senza	1	
+olio	olio	1	
+senza	senza	1	
+niente	niente	1	
+cioè	_	0	ADD
+meno	meno	1	
+condimento	condimento	1	
+è	è	1	
+questo	questo	1	
+sale	sale	1	
+_	l'	1	
+l'ho	_	1	
+_	ho	1	
+preso	preso	1	
+perché	perché	1	
+me	_	0	ADD
+lo	_	0	ADD
+_	mi	0	MISS
+hai	hai	1	
+visto	visto	1	
+tu	tu	1	
+eh	eh	1	
+però	però	1	
+_	eh	0	MISS
+no	no	1	
+no	no	1	
+sì	sì	1	
+sì	sì	1	
+questo	questo	1	
+sì	sì	1	
+più	più	1	
+o	o	1	
+meno	meno	1	
+no	_	0	ADD
+_	ma	0	MISS
+ci	ci	1	
+sono	sono	1	
+cose	cose	1	
+e	e	1	
+cose	cose	1	
+però	però	1	
+tipo	tipo	1	
+la	la	1	
+pasta	pasta	1	
+_	eh	0	MISS
+la	la	1	
+sto	sto	1	
+mangiando	mangiando	1	
+quasi	quasi	1	
+completamente	completamente	1	
+senza	senza	1	
+sale	sale	1	
+mmm	mh	0	grafia
+non	_	0	ADD
+_	ma	0	MISS
+fa	fa	1	
+schifo	schifo	1	
+la	la	1	
+pasta	pasta	1	
+senza	senza	1	
+sale	sale	1	
+lo	lo	1	
+so	so	1	
+ma	_	0	ADD
+mi	mi	1	
+sono	sono	1	
+abituata	abituata	1	
+al	al	1	
+sapore	sapore	1	
+ormai	ormai	1	
+pure	pure	1	
+quando	quando	1	
+ci	ci	1	
+metti	metti	1	
+un	un	1	
+pizzico	pizzico	1	
+di	di	1	
+sale	sale	1	
+la	la	1	
+sento	sento	1	
+salatissima	salatissima	1	
+cioè	cioè	1	
+la	_	0	ADD
+_	non	0	MISS
+metti	metti	1	
+proprio	proprio	1	
+di	_	0	ADD
+_	il	0	MISS
+sale	sale	1	
+_	nell'	1	
+nell'acqua	_	1	
+_	acqua	1	
+no	no	1	
+mmm	mh	0	grafia
+cosa	cosa	1	
+_	x	0	unintelligible
+_	como	0	MISS
+eh	eh	1	
+non	_	0	ADD
+lo	lo	1	
+so	so	1	
+però	però	1	
+non	non	1	
+mi	mi	1	
+sono	sono	1	
+abituata	abituata	1	
+non	non	1	
+so	so	1	
+perché	perché	1	
+_	vabbé	0	MISS
+che	che	1	
+problemi	problema	0	err_numero
+hai	hai	1	
+eh	eh	1	
+fatti	infatti	0	approssimazione
+che	che	1	
+problemi	problema	0	err_numero
+ho	ho	1	
+ditemelo	ditemelo	1	
+voi	voi	1	
+ah	eh	0	approssimazione
+beh	vabbé	0	approssimazione
+meglio	meglio	1	
+così	così	1	
+in	in	1	
+realtà	realtà	1	
+_	eh	0	MISS
+tanti	tanti	1	
+ma no	mado	0	approssimazione
+veramente	veramente	1	
+tantissimi	tantissimi	1	
+_	{ride}	0	nonverbal
+_	{ride}	0	nonverbal
+_	cioé	1	
+_	io	0	MISS
+cioè	_	1	
+voglio dire	direi	0	err_flessione
+_	ops	0	MISS
+_	cioé	0	MISS
+che	che	1	
+non	non	1	
+la	la	1	
+vuoi	vuoi	1	
+salare	sala-	0	interrupted
+cioè	_	1	
+_	cioé	1	
+che	ch-che	0	interrupted
+non	non	1	
+vuoi	vuoi	1	
+mettere	mettere	1	
+il	il	1	
+sale	sale	1	
+nel	nel	1	
+condimento	condimento	1	
+della	nella	0	approssimazione
+pasta	pasta	1	
+però	però	1	
+non	non	1	
+salare	salare	1	
+_	l'	1	
+l'acqua	_	1	
+_	acqua	1	
+quando	quando	1	
+la	la	1	
+bolli	bolli	1	
+è	è	1	
+illegale	illegale	1	
+_	cazzo	0	MISS
+_	eh	0	MISS
+_	no	0	MISS
+esatto	esatto	1	
+è	è	1	
+illegale	illegale	1	
+_	eh	0	MISS
+lo	lo	1	
+so	so	1	
+ma	ma	1	
+_	t-	0	interrupted
+vi	vi	1	
+giuro	giuro	1	
+che	che	1	
+io	io	1	
+sento	sento	1	
+ormai	ormai	1	
+sempre	sempre	1	
+salato	salato	1	
+potete	pure se	0	approssimazione
+_	ci	0	MISS
+mettere	metti	0	err_flessione
+		1	
+un	un	1	
+pizzico	pizzico	1	
+io	io	1	
+non	non	1	
+ce	ce	1	
+_	la	0	MISS
+faccio	faccio	1	
+a	a	1	
+mangiarla	mangiarlo	0	err_genere
+non	non	1	
+so	so	1	
+quante	quante	1	
+volte	volte	1	
+li	_	0	ADD
+dico	_	0	ADD
+_	ho	0	MISS
+a	_	0	ADD
+_	litigato	0	MISS
+mia	_	0	ADD
+_	con	0	MISS
+mamma	mamma	1	
+va beh	vabbé	0	grafia
+meglio	meglio	1	
+così	così	1	
+perché	perché	1	
+la	la	1	
+sento	sento	1	
+oggettivamente	oggettivamente	1	
+salata	salata	1	
+io	io	1	
+comunque	comunque	1	
+non	non	1	
+so	so	1	
+voi	voi	1	
+_	ma	0	MISS
+_	ho	0	MISS
+ancora	ancora	1	
+fame	fame	1	
+voi	voi	1	
+io	io	1	
+non	non	1	
+in	_	0	ADD
+particolare me	particolarmente	0	approssimazione
+ma	ma	1	
+non	_	0	ADD
+ti	vi	0	err_persona
+_	va	0	MISS
+invoiti	_	0	ADD
+_	di	0	MISS
+queste	queste	1	
+melanzanette	melanzanette	1	
+provolone	provolone	1	
+tagliato	tagliato	1	
+a	a	1	
+cubetti	cubetti	1	
+e	e	1	
+due	due	1	
+fettine	fettine	1	
+di	di	1	
+pane	pane	1	
+tagliate	_	0	ADD
+_	fatte	0	MISS
+a	a	1	
+cubetti	cubetti	1	
+salta	saltate	0	err_flessione
+dei	_	0	ADD
+_	in	0	MISS
+padella	padella	1	
+che	che	1	
+l'	le	0	err_numero
+ho	ho	1	
+fatto	fatte	0	err_numero
+tipo	tipo	1	
+crostino	crostino	1	
+_	mh	0	MISS
+basta	basta	1	
+_	que-	0	interrupted
+ah	ah	1	
+_	{P}	0	nonverbal
+_	e	0	MISS
+_	una	0	MISS
+è	e	0	approssimazione
+una	una	1	
+carota	carota	1	
+che	che	1	
+_	l'	1	
+l'ho	_	1	
+_	ho	1	
+tagliata	tagliata	1	
+piccolina	piccolina	1	
+piccolina	piccolina	1	
+_	oh	0	MISS
+_	x	0	unintelligible
+no	no	1	
+secondo	secondo	1	
+me	me	1	
+la	la	1	
+carota	carota	1	
+non	non	1	
+ci	ci	1	
+stava	sta	0	err_flessione
+bene	be-	0	interrupted
+invece	_	0	ADD
+_	x	0	unintelligible
+stava	stava	1	
+bene	bene	1	
+_	sì	0	MISS
+no	no	1	
+comunque	comunque	1	

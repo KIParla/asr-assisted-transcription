@@ -1,0 +1,677 @@
+whisper	human	match	error
+persone	persone	1	
+che	che	1	
+magari	magari	1	
+poi	_	0	approssimazione
+voi	_	0	approssimazione
+_	puoi	0	approssimazione
+avete	_	0	flessione
+_	avere	0	flessione
+incontrato	incontrato	1	
+_	un	0	MISS
+_	po'	0	MISS
+_	mh	0	MISS
+_	bah	0	grafia
+_	eh	0	MISS
+_	si	0	MISS
+beh	_	0	grafia
+_	cioè	0	MISS
+è	è	1	
+sempre	sempre	1	
+pieno	pieno	1	
+di	_	1	
+persone	_	1	
+_	dipersone	1	
+che	che	1	
+fanno	fanno	1	
+_	l'	0	parola sconosciuta
+le	_	0	parola sconosciuta
+_	elemosina	0	parola sconosciuta
+emosine	_	0	parola sconosciuta
+_	sotto	0	MISS
+sulle	_	0	ADD
+_	i	0	MISS
+portici	portici	1	
+_	mhmh	0	MISS
+soprattutto	soprattutto	1	
+se	_	0	approssimazione
+vieni	_	0	nome proprio sconosciuto
+_	su	0	approssimazione
+in	_	0	nome proprio sconosciuto
+_	via	0	nome proprio sconosciuto
+pendenza	_	0	nome proprio sconosciuto
+_	indipendenza	0	nome proprio sconosciuto
+ce	ce	1	
+ne	ne	1	
+sono	sono	1	
+diversi	diversi	1	
+_	sì	0	MISS
+_	è	0	MISS
+_	VERO	0	MISS
+anche	anche	1	
+sotto	sotto	1	
+i	i	1	
+portici	portici	1	
+di	di	1	
+via	via	1	
+_	di	0	MISS
+_	viale	0	approssimazione
+le	_	0	approssimazione
+_	mh	0	MISS
+masini	masini	1	
+perché	perché	1	
+io	io	1	
+passo	passo	1	
+spesso	spesso	1	
+di	di	1	
+lì	lì	1	
+_	eh	0	MISS
+però	però	1	
+a	_	0	grafia
+parte	_	0	grafia
+_	apparte	0	grafia
+insomma	insomma	1	
+persone	persone	1	
+che	che	1	
+fanno	fanno	1	
+_	l'	0	parola sconosciuta
+_	elemosina	0	parola sconosciuta
+le	_	0	parola sconosciuta
+_	sì	0	MISS
+emosine	_	0	parola sconosciuta
+_	mh	0	MISS
+si	_	0	ADD
+_	ah	0	MISS
+incontri	incontri	1	
+anche	anche	1	
+molte	molte	1	
+persone	persone	1	
+che	che	1	
+ti	ti	1	
+fermano	fermano	1	
+_	per	0	MISS
+_	mhmh	0	MISS
+_	sì	0	MISS
+per	per	1	
+_	chiederti	0	MISS
+_	di	0	MISS
+fare	fare	1	
+_	beneficienza	0	parola sconosciuta
+veneficienza	_	0	parola sconosciuta
+_	{ride}	0	nonverbal
+le	le	1	
+classiche	classiche	1	
+persone	persone	1	
+che	che	1	
+sono	sono	1	
+sotto	sotto	1	
+i	_	0	approssimazione
+_	ai	0	approssimazione
+portici	portici	1	
+_	{ride}	0	nonverbal
+_	esatto	0	MISS
+_	eh	0	MISS
+_	mh	0	MISS
+a	a	1	
+volte	volte	1	
+persone	persone	1	
+famose	famose	1	
+di	_	0	ADD
+_	ogni	0	MISS
+tanto	tanto	1	
+_	una	0	MISS
+_	volta	0	MISS
+hanno	_	0	flessione
+_	ho	0	flessione
+incontrato	incontrato	1	
+piff	piff	1	
+ad	ad	1	
+esempio	esempio	1	
+_	ah	0	MISS
+_	ah	0	MISS
+sì	_	1	
+_	ah	0	MISS
+sì	_	1	
+_	sìsìsì	1	
+sì	_	1	
+_	eh	0	MISS
+in	_	0	ADD
+_	x	0	unintelligible
+un	un	1	
+hotel	hotel	1	
+che	che	1	
+è	è	1	
+lì	lì	1	
+su	su	1	
+di	_	0	MISS
+_	via	0	nome proprio sconosciuto
+indipendenti	_	0	nome proprio sconosciuto
+_	indipendenza	0	nome proprio sconosciuto
+anche	anche	1	
+i	_	0	nome proprio sconosciuto
+cremonini	cremonini	1	nome proprio sconosciuto
+dicono	dicono	1	
+che	che	1	
+si	si	1	
+_	aspetti	0	flessione
+_	x	0	unintelligible
+_	neanche	0	MISS
+_	io	0	MISS
+_	mai	0	MISS
+aspettano	_	0	flessione
+_	cremoni-	0	interrupted
+eh	eh	1	
+non	non	1	
+_	l'	0	MISS
+ho	ho	1	
+ancora	ancora	1	
+incontrato	incontrato	1	
+i	_	0	nome proprio sconosciuto
+cremonini	cremonini	1	nome proprio sconosciuto
+_	{ride}	0	nonverbal
+però	però	1	
+_	in	0	MISS
+anche	_	0	ADD
+_	questi	0	MISS
+tre	tre	1	
+anni	anni	1	
+perché	perché	1	
+io	io	1	
+sono	sono	1	
+_	dal	0	approssimazione
+_	duemiladiciotto	1	
+da	_	0	approssimazione
+_	x	0	unintelligible
+2018	_	1	
+_	sì	0	MISS
+tre	tre	1	
+anni	anni	1	
+che	che	1	
+sono	sono	1	
+lì	lì	1	
+non	non	1	
+ho	ho	1	
+ancora	ancora	1	
+incontrato	_	0	approssimazione
+i	_	0	nome proprio sconosciuto
+_	incrociato	0	approssimazione
+cremonini	cremonini	1	nome proprio sconosciuto
+_	{ride}	0	nonverbal
+beh	_	0	typo
+_	vabbè	0	typo
+magari	magari	1	
+_	dai	0	approssimazione
+_	quest'	0	typo
+_	anno	0	typo
+da	_	0	approssimazione
+_	sarà	0	approssimazione
+quest'anno	_	1	
+_	l'	1	
+saranno	_	0	approssimazione
+_	anno	1	
+buono	buono	1	
+_	ma	0	MISS
+_	sì	0	MISS
+_	chissà	0	MISS
+_	infatti	0	MISS
+_	infatti	0	MISS
+e	_	0	err_interiezione
+_	eh	0	err_interiezione
+anche	anche	1	
+per	per	1	
+il	il	1	
+fatto	fatto	1	
+che	che	1	
+hanno	hanno	1	
+messo	messo	1	
+le	le	1	
+luci	luci	1	
+con	con	1	
+le	le	1	
+scritte	scritte	1	
+delle	delle	1	
+canzoni	canzoni	1	
+cosa	cosa	1	
+ne	ne	1	
+pensi	pensi	1	
+_	ah	0	MISS
+_	bello	0	MISS
+quello	quello	1	
+mi	mi	1	
+è	è	1	
+piaciuto	piaciuto	1	
+molto	molto	1	
+sì	_	1	
+sì	_	1	
+_	sìsì	1	
+quello	quello	1	
+si	_	0	approssimazione
+_	ci	0	approssimazione
+stava	stava	1	
+secondo	secondo	1	
+me	me	1	
+anche	_	0	approssimazione
+_	perché	0	approssimazione
+che	_	0	err_interiezione
+_	eh	0	err_interiezione
+la	_	0	approssimazione
+_	dai	0	approssimazione
+cremonini	cremonini	1	
+comunque	comunque	1	
+è	è	1	
+il	il	1	
+cantante	cantante	1	
+di	di	1	
+bro	_	0	nome proprio sconosciuto
+_	bolo-	0	nome proprio sconosciuto
+a	_	0	grafia
+_	cioè	0	MISS
+parte	_	0	grafia
+_	apparte	0	grafia
+lucio	lucio	1	
+dalla	dalla	1	
+ovviamente	ovviamente	1	
+_	però	0	MISS
+_	bello	0	MISS
+_	sì	0	MISS
+che	che	1	
+poi	poi	1	
+hanno	hanno	1	
+messo	messo	1	
+anche	anche	1	
+le	le	1	
+sue	sue	1	
+il	_	0	ADD
+_	VERO	0	MISS
+fatto	_	0	ADD
+_	e	0	MISS
+che	_	0	ADD
+_	infatti	0	MISS
+poi	poi	1	
+_	x	0	unintelligible
+hanno	hanno	1	
+messo	messo	1	
+anche	anche	1	
+le	le	1	
+sue	sue	1	
+_	sìsì	0	MISS
+_	eh	0	MISS
+però	però	1	
+ci	ci	1	
+sa	_	0	approssimazione
+_	sta	0	approssimazione
+il	_	0	ADD
+_	è	0	MISS
+cantante	cantante	1	
+moderno	moderno	1	
+diciamo	diciamo	1	
+più	più	1	
+bolognese	_	0	ADD
+_	mhmh	0	MISS
+anche	anche	1	
+secondo	secondo	1	
+me	me	1	
+_	più	0	MISS
+_	bolognese	0	MISS
+e	e	1	
+invece	invece	1	
+il	il	1	
+tuo	tuo	1	
+posto	posto	1	
+del	del	1	
+cuore	cuore	1	
+di	di	1	
+bologna	bologna	1	
+_	carino	0	MISS
+non	non	1	
+so	so	1	
+anche	anche	1	
+solo	solo	1	
+un	un	1	
+bar	bar	1	
+a	a	1	
+cui	cui	1	
+sei	sei	1	
+particolarmente	particolarmente	1	
+affezionata	affezionata	1	
+_	mh	0	MISS
+_	mh	0	MISS
+_	eh	0	MISS
+forse	forse	1	
+_	mh	0	MISS
+mangiare	mangiare	1	
+un	un	1	
+gelato	gelato	1	
+seduti	seduti	1	
+sul	sul	1	
+gradino	gradino	1	
+di	di	1	
+piazza	piazza	1	
+santo	santo	1	
+stefano	stefano	1	
+_	{ride}	0	nonverbal
+_	ah	0	err_interiezione
+eh	_	0	err_interiezione
+_	lì	0	MISS
+è	è	1	
+bellissimo	bellissimo	1	
+perché	perché	1	
+_	lì	0	MISS
+piazza	piazza	1	
+santo	santo	1	
+stefano	stefano	1	
+mi	mi	1	
+piace	piace	1	
+molto	molto	1	
+poi	poi	1	
+_	c'	1	
+_	è	1	
+_	di	0	MISS
+c'è	_	1	
+_	fianco	0	MISS
+la	la	1	
+mia	mia	1	
+giardina	_	0	parola sconosciuta
+_	gelateria	0	parola sconosciuta
+preferita	preferita	1	
+_	e	0	MISS
+quindi	quindi	1	
+spesso	spesso	1	
+_	d'	1	
+_	estate	1	
+d'estate	_	1	
+_	col	0	approssimazione
+con	_	0	approssimazione
+_	mio	0	err_genere
+mia	_	0	err_genere
+_	ragazzo	0	err_genere
+ragazza	_	0	err_genere
+_	andiamo	0	MISS
+andiamo	andiamo	1	
+lì	lì	1	
+prendiamo	prendiamo	1	
+un	un	1	
+gelato	gelato	1	
+e	e	1	
+ci	ci	1	
+sediamo	sediamo	1	
+in	in	1	
+piazza	piazza	1	
+santo	santo	1	
+stefano	stefano	1	
+_	quindi	0	MISS
+forse	forse	1	
+quello	quello	1	
+sì	sì	1	
+_	bello	0	MISS
+_	bellissimo	0	MISS
+e	e	1	
+in	in	1	
+generale	generale	1	
+bologna	bologna	1	
+ritieni	ritieni	1	
+che	che	1	
+sia	sia	1	
+una	una	1	
+bella	bella	1	
+città	città	1	
+in	in	1	
+cui	cui	1	
+vivere	vivere	1	
+sì	sì	1	
+sì	_	1	
+_	sìsì	0	MISS 
+secondo	secondo	1	
+me	me	1	
+è	è	1	
+una	una	1	
+bella	bella	1	
+città	città	1	
+in	in	1	
+cui	cui	1	
+vivere	vivere	1	
+_	eh	0	MISS 
+_	mh	0	MISS
+non	non	1	
+so	so	1	
+se	se	1	
+infatti	_	0	ADD
+anche	_	0	ADD
+_	effettivamente	0	MISS
+ci	ci	1	
+vivrei	vivrei	1	
+forse	forse	1	
+con	con	1	
+una	una	1	
+famiglia	famiglia	1	
+_	eh	0	MISS
+_	la	0	MISS
+_	okay	0	MISS
+quindi	quindi	1	
+_	più	0	MISS
+per	per	1	
+giovani	giovani	1	
+magari	magari	1	
+sì	sì	1	
+_	secondo	0	MISS
+_	me	0	MISS
+è	è	1	
+una	una	1	
+città	città	1	
+più	più	1	
+per	per	1	
+giovani	giovani	1	
+per	per	1	
+studenti	studenti	1	
+perché	perché	1	
+sì	sì	1	
+ci	ci	1	
+sono	sono	1	
+molte	molte	1	
+attività	attività	1	
+_	che	0	MISS
+per	_	0	approssimazione
+_	puoi	0	approssimazione
+fare	fare	1	
+poi	poi	1	
+sicuramente	sicuramente	1	
+ci	ci	1	
+sono	sono	1	
+cose	cose	1	
+anche	anche	1	
+_	per	0	MISS
+per	per	1	
+le	le	1	
+famiglie	famiglie	1	
+chiaramente	chiaramente	1	
+però	però	1	
+mi	mi	1	
+sembra	sembra	1	
+un	un	1	
+po'	po'	1	
+più	più	1	
+a	a	1	
+misura	misura	1	
+_	di	0	MISS
+di	di	1	
+giovane	giovane	1	
+_	mhmh	0	MISS
+_	che	0	MISS
+che	che	1	
+famiglia	famiglia	1	
+e	_	0	err_interiezione
+_	eh	0	err_interiezione
+per	_	0	ADD
+_	secondo	0	MISS
+esempio	_	0	ADD
+_	te	0	MISS
+i	i	1	
+suoi	suoi	1	
+punti	punti	1	
+forti	forti	1	
+secondo	secondo	1	
+te	te	1	
+quali	quali	1	
+sono	sono	1	
+ah	ah	1	
+i	i	1	
+punti	punti	1	
+forti	forti	1	
+sicuramente	sicuramente	1	
+_	mh	0	MISS
+la	la	1	
+storia	storia	1	
+cioè	cioè	1	
+_	l'	1	
+_	architettura	1	
+l'architettura	_	1	
+_	il	0	MISS
+il	il	1	
+centro	centro	1	
+storico	storico	1	
+è	è	1	
+proprio	proprio	1	
+pieno	pieno	1	
+di	di	1	
+_	mhmh	0	MISS
+_	{schiarisce_la_voce}	0	nonverbal
+_	dalle	0	MISS
+planetori	_	0	parola sconosciuta
+_	torri	0	parola sconosciuta
+a	a	1	
+san	san	1	
+petronio	petronio	1	
+_	insomma	0	MISS
+è	è	1	
+proprio	proprio	1	
+bella	bella	1	
+a	a	1	
+livello	livello	1	
+secondo	secondo	1	
+me	me	1	
+architettonico	architettonico	1	
+_	e	0	MISS
+storico	storico	1	
+e	_	0	err_interiezione
+_	eh	0	err_interiezione
+poi	poi	1	
+la	la	1	
+vita	vita	1	
+_	c'	1	
+c'è	_	1	
+_	è	1	
+sempre	sempre	1	
+un	un	1	
+sacco	sacco	1	
+di	di	1	
+cose	cose	1	
+da	da	1	
+fare	fare	1	
+se	se	1	
+_	il	0	approssimazione
+in	_	0	approssimazione
+_	weekend	0	parola sconosciuta
+chienesci	_	0	parola sconosciuta
+_	esci	0	parola sconosciuta
+è	è	1	
+pieno	pieno	1	
+di	di	1	
+gente	gente	1	
+in	in	1	
+centro	centro	1	
+_	tutti	0	MISS
+più	_	0	ADD
+_	i	0	MISS
+locali	locali	1	
+_	è	0	MISS
+_	VERO	0	MISS
+_	eh	0	MISS
+più	_	0	approssimazione
+_	appunto	0	approssimazione
+ospiti	_	0	approssimazione
+_	senti	0	approssimazione
+che	che	1	
+_	è	0	MISS
+_	viva	0	approssimazione
+arriva	_	0	approssimazione
+_	è	0	MISS
+molto	molto	1	
+vissuta	vissuta	1	
+come	come	1	
+città	città	1	
+_	eh	0	MISS
+poi	poi	1	
+c'è	_	0	err_numero
+_	vabbè	0	MISS
+un	_	0	err_numero
+_	ci	0	err_numero
+concerto	_	0	err_numero
+_	sono	0	err_numero
+il	_	0	err_numero
+_	concerti	0	err_numero
+stadio	stadio	1	
+cioè	cioè	1	
+ci	ci	1	
+sono	_	0	elisione
+_	son	0	elisione
+tante	tante	1	
+cose	cose	1	
+da	da	1	
+fare	fare	1	
+_	se	0	MISS
+_	se	0	MISS
+_	vuoi	0	MISS
+se	se	1	
+vuoi	vuoi	1	
+viverla	viverla	1	
+quindi	quindi	1	
+secondo	secondo	1	
+me	me	1	
+queste	queste	1	
+sono	sono	1	
+un	un	1	
+po'	po'	1	
+e	_	0	approssimazione
+_	i	0	approssimazione
+mezzi	mezzi	1	
+di	di	1	
+trasporto	trasporto	1	
+anche	anche	1	
+_	eh	0	err_interiezione
+_	i	0	err_interiezione
+mezzi	mezzi	1	
+di	di	1	
+trasporto	trasporto	1	
+vi	_	0	ADD
+_	come	0	MISS
+dicevo	dicevo	1	
+se	se	1	
+sei	sei	1	
+in	in	1	
+centro	centro	1	
+_	sto-	0	interrupted
+dentro	dentro	1	
+alle	alle	1	
+mura	mura	1	
+_	mh	0	MISS
+vai	vai	1	
+in	in	1	
+bicicletta	bicicletta	1	
+vai	vai	1	
+ai	_	0	approssimazione
+_	a	0	approssimazione
+piedi	piedi	1	
+ovunque	ovunque	1	
+bene	_	0	approssimazione
+o	_	0	approssimazione
+male	_	0	approssimazione
+_	menomale	0	approssimazione
+anche	anche	1	
+_	l'	1	
+l'autobus	_	1	
+_	autobus	1	
+secondo	secondo	1	
+me	me	1	
+funzionano	funzionano	1	
+abbastanza	abbastanza	1	
+bene	bene	1	

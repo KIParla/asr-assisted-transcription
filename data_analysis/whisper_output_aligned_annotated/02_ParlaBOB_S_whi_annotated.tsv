@@ -1,0 +1,473 @@
+whisper	human	match	error
+_	em	0	MISS
+_	di-	0	interrupted
+infatti	infatti	1	
+il	il	1	
+fatto	fatto	1	
+che	che	1	
+ha	ha	1	
+aumentato	aumentato	1	
+il	il	1	
+turismo	turismo	1	
+ha	ha	1	
+impattato	impattato	1	
+molto	molto	1	
+_	anche	0	MISS
+_	il	0	MISS
+_	tipo	0	MISS
+_	degli	0	MISS
+_	affari	0	MISS
+_	eh	0	MISS
+a	_	0	ADD
+_	può	0	MISS
+tutti	_	0	ADD
+_	essere	0	MISS
+e'	e'	1	
+VERO	VERO	1	
+è	è	1	
+VERO	VERO	1	
+perché	perché	1	
+dicevano	dicevano	1	
+che	che	1	
+molte	molte	1	
+persone	persone	1	
+molti	molti	1	
+proprietari	proprietari	1	
+hanno	hanno	1	
+messo	messo	1	
+le	le	1	
+case	case	1	
+su	su	1	
+airbnb	airbnb	1	
+_	{P}	0	nonverbal
+per	per	1	
+il	il	1	
+turismo	turismo	1	
+_	m	0	MISS
+_	m	0	MISS
+e	e	1	
+tutte	tutte	1	
+queste	queste	1	
+case	case	1	
+sono	sono	1	
+state	state	1	
+tolte	tolte	1	
+dal	dal	1	
+mercato	mercato	1	
+della	della	1	
+gente	gente	1	
+che	che	1	
+ci	ci	1	
+deve	deve	1	
+vivere	vivere	1	
+_	insomma	0	MISS
+e'	e'	1	
+VERO	VERO	1	
+quindi	quindi	1	
+sicuramente	sicuramente	1	
+il	il	1	
+turismo	turismo	1	
+ha	ha	1	
+influito	influito	1	
+anche	anche	1	
+su	su	1	
+_	questo	0	MISS
+questa	questa	1	
+cosa	cosa	1	
+qua	qua	1	
+però	però	1	
+capisco	capisco	1	
+anche	anche	1	
+che	che	1	
+_	vogliano	0	flessione
+_	comunque	0	MISS
+_	incentivare	0	MISS
+_	il	0	MISS
+_	turismo	0	MISS
+_	{ride}	0	nonverbal
+vogliono	_	0	flessione
+_	però	0	MISS
+eh	eh	1	
+sì	sì	1	
+anche	_	0	ADD
+_	sì	0	MISS - ripetizione
+il	_	0	ADD
+_	sì	0	MISS - ripetizione
+turismo	_	0	ADD
+_	sì	0	MISS - ripetizione
+e	e	1	
+invece	invece	1	
+per	per	1	
+il	il	1	
+quanto	quanto	1	
+riguarda	riguarda	1	
+il	il	1	
+lavoro	lavoro	1	
+pensi	pensi	1	
+che	che	1	
+sia	sia	1	
+un	un	1	
+buon	buon	1	
+posto	posto	1	
+in	in	1	
+cui	cui	1	
+lavorare	lavorare	1	
+cioè	cioè	1	
+secondo	secondo	1	
+te	te	1	
+si	si	1	
+trova	trova	1	
+lavoro	lavoro	1	
+ah	ah	1	
+ok	ok	1	
+come	come	1	
+sì	sì	1	
+no	no	1	
+bologna	bologna	1	
+sicuramente	sicuramente	1	
+secondo	secondo	1	
+me	me	1	
+ha	ha	1	
+molte	molte	1	
+opportunità	opportunità	1	
+lavorative	lavorative	1	
+rispetto	rispetto	1	
+ad	ad	1	
+esempio	esempio	1	
+a	a	1	
+fornì	_	0	nome proprio sconosciuto
+_	forlì	0	nome proprio sconosciuto
+da	_	0	ADD
+_	adesso	0	parola sconosciuta
+supernano	_	0	parola sconosciuta
+_	prendiamo	0	parola sconosciuta
+fornì	_	0	nome proprio sconosciuto
+_	forlì	0	nome proprio sconosciuto
+come	come	1	
+riferimento	riferimento	1	
+però	però	1	
+_	{P}	0	nonverbal
+_	c'	1	
+c'è	_	1	
+_	è	1	
+sicuramente	sicuramente	1	
+molta	molta	1	
+più	più	1	
+offerta	offerta	1	
+lavorativa	lavorativa	1	
+su	su	1	
+bologna	bologna	1	
+perché	perché	1	
+_	{P}	0	nonverbal
+un	un	1	
+po'	po'	1	
+ci	ci	1	
+sono	sono	1	
+molte	molte	1	
+industrie	industrie	1	
+poi	poi	1	
+dipende	dipende	1	
+uno	uno	1	
+che	che	1	
+cosa	cosa	1	
+fa	fa	1	
+però	però	1	
+_	c'	1	
+c'è	_	1	
+_	è	1	
+sia	sia	1	
+_	l'	1	
+l'industria	_	1	
+_	industria	1	
+e	e	1	
+la	la	1	
+regione	regione	1	
+poi	poi	1	
+del	del	1	
+motor	motor	1	
+valley	valley	1	
+sai	sai	1	
+ci	ci	1	
+sono	sono	1	
+più	più	1	
+delle	delle	1	
+aziende	aziende	1	
+di	di	1	
+motori	motori	1	
+in	in	1	
+quella	quella	1	
+zona	zona	1	
+lì	lì	1	
+_	e	0	MISS
+_	sì	0	MISS
+_	sì	0	MISS
+_	sì	0	MISS
+poi	poi	1	
+anche	anche	1	
+più	più	1	
+verso	verso	1	
+modena	modena	1	
+in	in	1	
+realtà	realtà	1	
+però	però	1	
+_	e	0	MISS
+secondo	secondo	1	
+me	me	1	
+_	c'	1	
+c'è	_	1	
+_	è	1	
+un	un	1	
+po'	po'	1	
+di	di	1	
+tutto	tutto	1	
+comunque	comunque	1	
+anche	anche	1	
+a	a	1	
+livello	livello	1	
+umanistico	umanistico	1	
+qualcosa	qualcosa	1	
+sì	sì	1	
+si	si	1	
+trova	trova	1	
+a	a	1	
+bologna	bologna	1	
+_	e	0	MISS
+io	io	1	
+poi	poi	1	
+ho	ho	1	
+trovato	trovato	1	
+lavoro	lavoro	1	
+tramite	tramite	1	
+un	un	1	
+concorso	concorso	1	
+quindi	quindi	1	
+quello	quello	1	
+magari	magari	1	
+è	è	1	
+di	di	1	
+piacere	piacere	1	
+_	ah	0	MISS
+_	ok	0	MISS
+_	m	0	MISS
+_	m	0	MISS
+però	però	1	
+anche	anche	1	
+nel	nel	1	
+pubblico	pubblico	1	
+probabilmente	probabilmente	1	
+a	a	1	
+bologna	bologna	1	
+_	c'	1	
+c'è	_	1	
+_	è	1	
+molto	molto	1	
+di	di	1	
+più	più	1	
+rispetto	rispetto	1	
+magari	magari	1	
+più	più	1	
+posti	posti	1	
+sì	sì	1	
+esatto	esatto	1	
+_	l'	1	
+l'università	_	1	
+_	università	1	
+di	di	1	
+bologna	bologna	1	
+diciamo	diciamo	1	
+che	che	1	
+_	{P}	0	nonverbal
+porta	porta	1	
+tanto	tanto	1	
+lavoro	lavoro	1	
+in	in	1	
+tanti	tanti	1	
+modi	modi	1	
+secondo	secondo	1	
+me	me	1	
+_	e	0	MISS
+quindi	quindi	1	
+sì	sì	1	
+_	so	0	MISS
+sicuramente	sicuramente	1	
+ci	ci	1	
+sono	sono	1	
+buone	buone	1	
+opportunità	opportunità	1	
+secondo	secondo	1	
+me	me	1	
+bologna	bologna	1	
+in	in	1	
+tutta	tutta	1	
+la	la	1	
+regione	regione	1	
+penso	penso	1	
+che	che	1	
+sia	sia	1	
+la	la	1	
+città	città	1	
+in	in	1	
+cui	cui	1	
+si	si	1	
+trova	trova	1	
+più	più	1	
+lavoro	lavoro	1	
+_	meglio	0	MISS
+e	e	1	
+quindi	quindi	1	
+tu	tu	1	
+di	di	1	
+cosa	cosa	1	
+ti	ti	1	
+occupi	occupi	1	
+allora	allora	1	
+io	io	1	
+lavoro	lavoro	1	
+_	nell'	1	
+nell'ufficio	_	1	
+_	ufficio	1	
+relazioni	relazioni	1	
+internazionali	internazionali	1	
+_	dell'	1	
+dell'università	_	1	
+_	università	1	
+di	di	1	
+bologna	bologna	1	
+in	in	1	
+particolare	particolare	1	
+in	in	1	
+un	un	1	
+ufficio	ufficio	1	
+che	che	1	
+si	si	1	
+chiama	chiama	1	
+international	international	1	
+desk	desk	1	
+che	che	1	
+si	si	1	
+occupa	occupa	1	
+di	di	1	
+dare	dare	1	
+supporto	supporto	1	
+e	e	1	
+orientamento	orientamento	1	
+agli	agli	1	
+studenti	studenti	1	
+internazionali	internazionali	1	
+che	che	1	
+vengono	vengono	1	
+a	a	1	
+iscriversi	iscriversi	1	
+_	all'	1	
+all'università	_	1	
+_	università	1	
+di	di	1	
+bologna	bologna	1	
+_	m	0	MISS
+_	m	0	MISS
+quindi	quindi	1	
+che	che	1	
+fanno	fanno	1	
+un	un	1	
+intero	intero	1	
+percorso	percorso	1	
+trinale	trinale	1	
+magistrale	magistrale	1	
+e	e	1	
+principalmente	principalmente	1	
+diamo	diamo	1	
+supporto	supporto	1	
+per	per	1	
+_	e	0	MISS
+_	op-	0	interrupted
+_	o-	0	interrupted
+_	o-	0	interrupted
+orientamento	orientamento	1	
+sul	sul	1	
+processo	processo	1	
+proprio	proprio	1	
+di	di	1	
+iscrizione	iscrizione	1	
+cosa	cosa	1	
+fare	fare	1	
+a	_	0	approssimazione
+_	da	0	approssimazione
+dove	dove	1	
+partire	partire	1	
+ma	ma	1	
+poi	poi	1	
+nel	nel	1	
+dettaglio	dettaglio	1	
+in	in	1	
+particolare	particolare	1	
+sulle	sulle	1	
+questioni	questioni	1	
+che	che	1	
+riguardano	riguardano	1	
+_	l'	1	
+_	immigrazione	1	
+_	ah	0	MISS
+_	m	0	MISS
+l'immigrazione	_	1	
+_	m	0	MISS
+quindi	quindi	1	
+su	su	1	
+come	come	1	
+ottenere	ottenere	1	
+un	un	1	
+visto	visto	1	
+come	come	1	
+fare	fare	1	
+per	per	1	
+il	il	1	
+suo	suo	1	
+giorno	giorno	1	
+diamo	diamo	1	
+informazioni	informazioni	1	
+sui	sui	1	
+titoli	titoli	1	
+esteri	esteri	1	
+_	che	0	MISS
+_	bello	0	MISS
+_	cosa	0	MISS
+che	che	1	
+documenti	documenti	1	
+devono	devono	1	
+presentare	presentare	1	
+per	per	1	
+iscriversi	iscriversi	1	
+con	con	1	
+un	un	1	
+titolo	titolo	1	
+di	di	1	
+studio	studio	1	
+estero	estero	1	
+e	e	1	
+insomma	insomma	1	
+queste	queste	1	
+cose	cose	1	
+queste	queste	1	
+cose	cose	1	
+qui	qui	1	
+principalmente	principalmente	1	
+_	em	0	MISS
+hai	hai	1	
+sempre	sempre	1	
+fatto	fatto	1	
+questo	questo	1	
+lavoro	lavoro	1	
+oppure	oppure	1	
+allora	allora	1	
+dopo	dopo	1	
+la	la	1	
+laurea	laurea	1	
+io	io	1	
+mi	mi	1	
+sono	sono	1	
+laureato	laureato	1	
+nel	nel	1	
+_	duemiladiciassette	1	
+2017	_	1	
+_	{P}	0	nonverbal
+ho	ho	1	
+fatto	fatto	1	
