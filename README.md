@@ -14,3 +14,4 @@ Organization of the repo:
 
 * `data_analysis/*.ipynb`: jupyter notebooks used for data exploration and analysis
 * `data_analysis/statistics`: scripts and plots for statistical analysis
+* `data_analysis/whisper_output_aligned_annotated`: manual annotation of errors produced by Whisper
